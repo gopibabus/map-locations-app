@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "typescript": "^3.9.6"
   },
   "dependencies": {
@@ -8,6 +9,6 @@
     "faker": "^4.1.0"
   },
   "scripts": {
-    "build": "parcel index.html"
+    "build": "parcel build index.html"
   }
 }
