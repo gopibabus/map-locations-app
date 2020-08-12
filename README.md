@@ -1,6 +1,8 @@
-# 🔥Markers on Maps
+![Markers on Maps](./src/images/banner.png)
 
-### ❇Technologies Used
+> This project is responsible for marking 2 different places on Maps using Google Maps SDK.🌍
+
+### Technologies Used
 
 - Google API
 - Typescript
